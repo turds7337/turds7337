@@ -1,12 +1,7 @@
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://i.postimg.cc/NMhd4Y4q/gay.jpg">
- <source media="(prefers-color-scheme: light)" srcset="https://i.postimg.cc/NMhd4Y4q/gay.jpg">
- <img alt="robby and abbott from the pitt looking at each other" src="https://i.postimg.cc/NMhd4Y4q/gay.jpg">
-</picture>
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e1870b14-4e51-4bd5-8776-1ac79d751449" alt="robby and abbott from the pitt looking at eachother"/>
+</p>
 
 errrr
 hi
