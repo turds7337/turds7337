@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-[strawpage](https://turds.straw.page)
+strawpage
 
 </p>
