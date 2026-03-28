@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-errrr
-hi
+[straw](https://turds.straw.page/) [ata](https://turds.atabook.org/)
+
 </p>
