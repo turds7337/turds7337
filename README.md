@@ -6,6 +6,6 @@
 </p>
 
 <p align="center">
-[straw](https://turds.straw.page/) [ata](https://turds.atabook.org/)
+[strawpage](https://turds.straw.page)
 
 </p>
